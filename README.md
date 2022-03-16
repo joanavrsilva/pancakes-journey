@@ -5,8 +5,9 @@
 
 You can see the live project [here](https://joanavrsilva.github.io/pancakes-journey/)
 
+![pancakes](https://user-images.githubusercontent.com/83631970/158633672-6a6c8fcf-343c-498b-b720-adf139b6822f.png)
 
-## Features 
+## Features
 
 ### Existing Features
 
