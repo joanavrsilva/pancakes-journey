@@ -3,6 +3,8 @@
 - Project under construction!
 ```
 
+You can see the live project [here](https://joanavrsilva.github.io/pancakes-journey/)
+
 
 ## Features 
 
